@@ -1,0 +1,149 @@
+/* root */
+
+
+/* OPEN topBar */
+.topBar{
+    margin-bottom: 5px;
+}
+/* CLOSE topBar */
+
+/* OPEN navContainer */
+.topNav{
+    background-color: #001b43 ;
+    padding: 6px;
+}
+.topNav a{
+    color: white;
+}
+.topNav a:hover{
+    color: #001b43;
+    background-color: red;
+    border-radius: 4%;
+}
+.topNav button{
+    background-color: red;
+    color: white;
+}
+.topNav button:hover{
+    background-color: white;
+    color: red;
+}
+/* CLOSE navContainer */
+
+/* OPEN main1 */
+.main1{
+    background-color: #eae6ba;
+}
+
+.main h2{
+    font-size: 60px;
+}
+.main1 p {
+    font-size: 20px;
+    /* font-family: 'Oswald', sans-serif;
+    font-weight: 300; */
+}
+.main1Img{
+    background-image: url("../images/Capture-removebg-preview.png");
+    background-repeat: no-repeat;
+}
+/* CLOSE main1 */
+
+/* OPEN main2 */
+.main2 img{
+    width: 340px;
+    height: 340px;
+}
+.theTape{
+    background-color: #001b43;
+    color: white;
+    font-size: 20px;
+}
+.thePlan{
+    background-color: #cf2229;
+    color: white;
+    font-size: 20px;
+}
+/* CLOSE main2 */
+
+/* OPEN main3 */
+.main3 {
+    font-size: 20px;
+    color: #001b43;
+    background-color: #eae6ba;
+    padding-bottom: 15px;
+}
+
+.main3Boxes{
+    padding: 5px;
+    margin-right: 5px;
+    background-color: #001b43;
+    color: white;
+    width: 400px;
+}
+/* CLOSE main3 */
+
+/* OPEN main4 */
+.main4{
+    background-color: #001b43;
+    color: white;
+    font-size: 20px;
+}
+
+#more a{
+    color: red;
+}
+#more a:hover{
+    color: red;
+}
+.main4 button{
+    background-color: white;
+    color: #001b43;
+    margin-left: 5px;
+}
+.main4 button:hover{
+    background-color: red;
+    color: white;
+    margin-left: 5px;
+}
+/* CLOSE main4 */
+
+/* OPEN FOOTER */
+.footerContainer{
+    background-color: #cf2229;
+    color: white;
+    font-size: 20px;
+}
+
+.footer .row2 {
+    padding-top: 25px;
+}
+
+.footer button{
+    background-color: #001b43;
+    color: white;
+    
+}
+
+.footer button:hover{
+    background-color: white;
+    color: #001b43;
+}
+/* CLOSE FOOTER */
+
+
+#more {
+    display: none;
+}
+#more2 {
+    display: none;
+}
+#more3 {
+    display: none;
+}
+
+.captchaInput{
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+}
